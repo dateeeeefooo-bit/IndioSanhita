@@ -1,0 +1,6 @@
+{
+  "name": "INDOSANHITA",
+  "description": "INDOSANHITA Global News - Ascend with every story. Real-time news, AI chat, claim verification, multilingual translation, background audio player, home screen widget and reading rewards.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
